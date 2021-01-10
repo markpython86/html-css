@@ -1,0 +1,42 @@
+body{
+  width: 600px;
+  margin: 120px;
+  /* margin-top:120px; */
+  display: block;
+}
+
+#p1{
+  color: blue !important;
+}
+.font-bold{
+  font-weight: bold !important;
+}
+
+span{
+  font-size: 120px;
+  border-style: dashed;
+  font-style: italic;
+
+}
+.red{
+  color: red;
+}
+
+div span{
+  color: yellow;
+}
+
+.left{
+  float: left;
+}
+.right:{
+  float:right;
+}
+.fifty-percent{
+  width: 50%;
+  display: inline-block;
+}
+
+.parent{
+  display:block;
+}
